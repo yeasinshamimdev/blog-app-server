@@ -17,7 +17,6 @@
   - authorId
   - createdAt
   - updatedAt
-  - publishedAt
   - published
 
 - User
